@@ -18,40 +18,87 @@
 -->
 
 
-<div style="display:flex; gap:12px; align-items:center;">
+<div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+
   <!-- Java -->
-  <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" media="(prefers-color-scheme: light)" />
+    <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  </picture>
 
   <!-- Spring Boot -->
-  <img alt="Spring Boot" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" media="(prefers-color-scheme: light)" />
+    <img alt="Spring Boot" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+  </picture>
 
   <!-- JavaScript -->
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" media="(prefers-color-scheme: light)" />
+    <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  </picture>
 
   <!-- TypeScript -->
-  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" media="(prefers-color-scheme: light)" />
+    <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  </picture>
 
   <!-- HTML5 -->
-  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" media="(prefers-color-scheme: light)" />
+    <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  </picture>
 
   <!-- CSS3 -->
-  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" media="(prefers-color-scheme: light)" />
+    <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  </picture>
 
   <!-- SQL (MySQL como exemplo) -->
-  <img alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" media="(prefers-color-scheme: light)" />
+    <img alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  </picture>
 
   <!-- Git -->
-  <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" media="(prefers-color-scheme: light)" />
+    <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  </picture>
 
   <!-- GitHub -->
-  <img alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" media="(prefers-color-scheme: light)" />
+    <img alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  </picture>
 
-  <!-- AWS (corrigido) -->
-  <img alt="AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <!-- AWS -->
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" media="(prefers-color-scheme: light)" />
+    <img alt="AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  </picture>
 
   <!-- Docker -->
-  <img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" media="(prefers-color-scheme: light)" />
+    <img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  </picture>
+
 </div>
+
 
 
 ##
