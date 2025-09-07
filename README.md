@@ -20,7 +20,7 @@
 
 <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
 
-  <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+  <div style="display:flex; gap:24px; align-items:center; flex-wrap:wrap;">
 
   <!-- Java -->
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
@@ -40,8 +40,12 @@
   <!-- CSS3 -->
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
-  <!-- SQL (MySQL como exemplo) -->
-  <img alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <!-- Database (auto claro/escuro) -->
+  <picture>
+    <source srcset="https://img.icons8.com/ios-filled/50/FFFFFF/database.png" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://img.icons8.com/ios-filled/50/000000/database.png" media="(prefers-color-scheme: light)" />
+    <img alt="Database" height="40" width="40" src="https://img.icons8.com/ios-filled/50/000000/database.png" />
+  </picture>
 
   <!-- Git -->
   <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
@@ -56,6 +60,8 @@
   <img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 
 </div>
+
+
 
 
 
