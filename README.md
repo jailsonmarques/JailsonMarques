@@ -1,18 +1,29 @@
-## Hi there, what's up 👋
+## Hi there, welcome 👋
 
 <br/>
 
-- 🙋‍♂️ I'm Jailson Marques
+- 🙋‍♂️ I'm **Jailson Marques**, passionate about technology and software development.  
+- 🔭 This repository is part of my journey to grow as a developer and refine my skills.  
+- 💻 My main focus is on **AI, Java, Spring Boot, JavaScript, and TypeScript**, while also exploring new languages, frameworks, and databases.  
+- 🚀 I’m excited to collaborate on innovative projects, contribute to open source, and share knowledge with the community.  
+- 🌱 Always learning and improving my craft.  
+- 👀 I’m also interested in connecting with new people and building great friendships along the way.  
 
-- 🔭 Welcome to my GitHub repository! This project serves as a showcase of my journey to improve and enhance my front-end programming skills.
+<br/>
 
-- 🌱 I'm primarily delving into JavaScript, HTML, and CSS while also seeking to learn new languages, databases, frameworks, and other technologies.
-
-- 🚀 I'm looking to collaborate on new projects
-
-- 👀 I’m interested in making new friends
+### 🚀 Tech Stack  
+<!--
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/><br/>
+
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jailson+Marques;I'm+26+years+old;I'm+from+Brazil;I+Study+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 -->
